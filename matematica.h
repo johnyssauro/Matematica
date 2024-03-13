@@ -24,3 +24,10 @@ float calcular_cosseno(float angulo_radianos);
 
 */
 float calcular_tangente(float angulo_radianos);
+
+/*
+
+    Constante pi
+
+*/
+#define PI_m 3.1415
