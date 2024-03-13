@@ -1,7 +1,7 @@
 #include <math.h>
 #include "matematica.h"
 
-#define PI_m 3.1415
+#define PI_m 3.14159265
 
 float calcular_seno(float angulo_radianos) {
 
